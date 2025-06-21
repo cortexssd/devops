@@ -1,0 +1,7 @@
+# Docker
+*.log
+vendor/
+postgres_data/
+
+# IDE
+.idea/
