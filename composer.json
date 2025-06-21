@@ -2,7 +2,6 @@
   "name": "devops/test-project",
   "description": "Базовый проект для тестирования подключения",
   "require": {
-    "psr/log": "^3.0",
     "ext-pdo": "*",
     "ext-redis": "*"
   },
