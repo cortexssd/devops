@@ -1,7 +1,12 @@
 # PHP DevOps Test Project
 
 Базовый проект для тестирования DevOps-практик: Docker, Prometheus/Grafana, Ansible, Bash-скрипт.  
-Протестирован на Ubuntu 22.04 VPS.
+Протестирован на Ubuntu 22.04 VPS:
+http://194.58.118.58/
+
+Grafana:
+http://194.58.118.58:3000/d/3ba1205a-641b-4f13-b921-6e170693d325/
+(admin:admin)
 
 ## Требования
 
