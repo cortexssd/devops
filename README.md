@@ -66,17 +66,17 @@ http://194.58.118.58:3000/d/3ba1205a-641b-4f13-b921-6e170693d325/
 
     Сначала сделайте скрипт исполнимым:
     ```bash
-    chmod +x port.sh
+    chmod +x ports.sh
     ```
 
     Затем выполните:
     ```bash
-    ./port.sh <host> <port>
+    ./ports.sh <host> <port>
     ```
 
 2. Логи скрипта находятся в файле:
     ```bash
-    /var/log/port.log
+    /var/log/ports.log
     ```
 
 ## Структура проекта
