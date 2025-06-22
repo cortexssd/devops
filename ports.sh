@@ -7,7 +7,7 @@ fi
 
 HOST=$1
 PORT=$2
-LOG_FILE="/var/log/port.log"
+LOG_FILE="/var/log/ports.log"
 
 nc -z -w 5 $HOST $PORT > /dev/null 2>&1
 
